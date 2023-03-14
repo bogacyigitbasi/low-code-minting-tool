@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/low-code-minting-tool/static/css/main.75213381.css",
+    "main.js": "/low-code-minting-tool/static/js/main.dcf9f752.js",
+    "static/js/787.1d3220f0.chunk.js": "/low-code-minting-tool/static/js/787.1d3220f0.chunk.js",
+    "index.html": "/low-code-minting-tool/index.html",
+    "main.75213381.css.map": "/low-code-minting-tool/static/css/main.75213381.css.map",
+    "main.dcf9f752.js.map": "/low-code-minting-tool/static/js/main.dcf9f752.js.map",
+    "787.1d3220f0.chunk.js.map": "/low-code-minting-tool/static/js/787.1d3220f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75213381.css",
+    "static/js/main.dcf9f752.js"
+  ]
+}
